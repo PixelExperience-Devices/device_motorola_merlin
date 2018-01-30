@@ -25,12 +25,6 @@
   },
   {
     "remote":      "github",
-    "repository":  "LineageOS/android_external_bson",
-    "target_path": "external/bson",
-    "branch":      "cm-14.1"
-  },
-  {
-    "remote":      "github",
     "repository":  "LineageOS/android_packages_resources_devicesettings",
     "target_path": "packages/resources/devicesettings",
     "branch":      "lineage-15.0"
