@@ -18,7 +18,7 @@ $(call inherit-product, device/motorola/merlin/full_merlin.mk)
 TARGET_BOOT_ANIMATION_RES := 720
 
 # Inherit some common aosp stuff.
-$(call inherit-product, vendor/aosp/common.mk)
+$(call inherit-product, vendor/aosp/config/common.mk)
 
 
 # Boot animation
